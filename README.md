@@ -7,9 +7,9 @@ This is Cubic YYY.
 - Former administrator/teacher/TA @[Luogu](https://www.luogu.com.cn)
 - CTF team `AAA` member, web/misc  
 
-❤ Toy projects(hardware/software), 🎻&🎸(learning)  
+❤ Cyber security, toy projects(hardware/software), 🎻&🎸(learning)  
 📫 yyy2015c01@gmail.com  
-📕 [cubicy.icu(WIP)](cubicy.icu)  
+📕 Blog(life&geek): [cubicy.icu(WIP)](cubicy.icu)  
 
 <!--
 **cubicYYY/cubicYYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
