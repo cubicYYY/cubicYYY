@@ -10,6 +10,7 @@ This is Cubic YYY.
 ❤ Cyber security, toy projects(hardware/software), 🎻&🎸(learning)  
 📫 yyy2015c01@gmail.com  
 📕 Blog(life&geek): [cubicy.icu(WIP)](cubicy.icu)  
+📄 [Resume](https://latexonline.cc/compile?git=https://github.com/cubicYYY/resume&target=resume.tex&command=xelatex)
 
 <!--
 **cubicYYY/cubicYYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
