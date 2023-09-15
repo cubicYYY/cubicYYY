@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 This is Cubic YYY. 
-- ZJU CS undergraduate (2021-)
-- XLab member @ZJU, learning frontend :)
+- CS undergraduate @Zhejiang University(ZJU) (2021-)
+- Member @XLab ZJU, learning frontend :)
 - OIer(retired)
 - Former administrator/teacher/TA @[Luogu](https://www.luogu.com.cn)
 - CTF team `AAA` member, web/misc  
 
-❤ Cyber security, toy projects(hardware/software), 🎻&🎸(learning)  
+❤ Cyber security, toy projects(hardware/software), violin🎻&🎸electric guitar(beginner)  
 📫 yyy2015c01@gmail.com  
 📕 Blog(life&geek): [cubicy.icu(WIP)](cubicy.icu)  
 📄 [Resume](https://latexonline.cc/compile?git=https://github.com/cubicYYY/resume&target=resume.tex&command=xelatex)
