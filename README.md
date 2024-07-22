@@ -7,13 +7,13 @@ This is Cubic YYY.
 - Member of the CTF team `AAA` member,  specializing in **web** and **misc**ellaneous challenges
 
 ### Status
-🌱 Learning: Rust, Haskell, category theory
-🔭 Leading a team to digitize ancient Chinese imperial examinations, collaborating with the School of History to build a reusable platform.
-🗾 Participating in an exchange program at the University of Tokyo: 2024.9-2025.3
-👯 Seeking remote summer internship or research assistant opportunities :)
+🌱 Learning: Rust, Haskell, category theory  
+🔭 Leading a team to digitize ancient Chinese imperial examinations, collaborating with the School of History to build a reusable platform.  
+🗾 Participating in an exchange program at the University of Tokyo: 2024.9-2025.3  
+👯 Seeking remote summer internship or research assistant opportunities :)  
 
 ### Bio
-❤ Cyber security, programming languages, toy projects, and electric guitar 🎸
+❤ Cyber security, programming languages, toy projects, and electric guitar 🎸  
 📫 Contact: yyy2015c01@gmail.com  
 📕 Blog(tech/coding): [cubicy.icu](https://cubicy.icu)  
-📄 [Resume (online compiled)](https://latexonline.cc/compile?git=https://github.com/cubicYYY/resume&target=resume.tex&command=xelatex)
+📄 [Resume (online compiled)](https://latexonline.cc/compile?git=https://github.com/cubicYYY/resume&target=resume.tex&command=xelatex)  
