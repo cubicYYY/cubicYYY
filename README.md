@@ -4,7 +4,7 @@ This is Cubic YYY.
 - Undergraduate majoring in Computer Science at Zhejiang University(ZJU) (2021-present)
 - Member of [X-Lab](https://xlab.zju.edu.cn/), SDE(frontend/backend)
 - Former administrator, teacher, and TA at [Luogu](https://www.luogu.com.cn), a platform for algorithm competitions
-- Member of the CTF team `AAA` member,  specializing in **web** and **misc**ellaneous challenges
+- Member of the CTF team `AAA`,  specializing in **web** and **misc**ellaneous challenges
 
 ### Status
 🌱 Learning: Rust, Haskell, category theory  
@@ -16,4 +16,4 @@ This is Cubic YYY.
 ❤ Cyber security, programming languages, toy projects, and electric guitar 🎸  
 📫 Contact: yyy2015c01@gmail.com  
 📕 Blog(tech/coding): [cubicy.icu](https://cubicy.icu)  
-📄 [Resume (online compiled)](https://latexonline.cc/compile?git=https://github.com/cubicYYY/resume&target=resume.tex&command=xelatex)  
+📄 [CV](https://self.cubicy.icu)  
